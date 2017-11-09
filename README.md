@@ -1,3 +1,3 @@
-ANIMATIONLIST
+ANIMATIONLIST en kotlin
 
-Control de listado(Array) en recyclerView con animacionesx
+Control de listado(Array) en recyclerView con animaciones
